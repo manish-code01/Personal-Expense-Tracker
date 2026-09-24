@@ -1,0 +1,35 @@
+[
+    {
+        "expense": "Burger",
+        "amount": 100.0,
+        "category": "Food"
+    },
+    {
+        "expense": "Momos",
+        "amount": 200.0,
+        "category": "Food"
+    },
+    {
+        "expense": "Pizza",
+        "amount": 500.0,
+        "category": "Food"
+    },
+    {
+        "expense": "Ice Cream",
+        "amount": 25.0,
+        "category": "Food",
+        "datetime": "07-07-2026 12:33 PM"
+    },
+    {
+        "expense": "Pizza",
+        "amount": 65.0,
+        "category": "Food",
+        "datetime": "07-07-2026 12:37 PM"
+    },
+    {
+        "expense": "Samosa",
+        "amount": 25.0,
+        "category": "Food",
+        "datetime": "10-07-2026 12:16 PM"
+    }
+]
